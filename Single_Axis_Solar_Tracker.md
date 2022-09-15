@@ -7,7 +7,7 @@ The Solar Panel Tracker is designed to follow the sun movement so that maximum l
 
 In this system, the whole solar panel moves from east to west in a day to point in the direction of the sun. The use of a solar tracker circuit in the field of energy production will increase its efficiency. This system can also be successfully implemented in other solar energy-based projects like water heaters and steam turbines.
 
-                            **Components Required:**
+ **Components Required:**
 
                             Arduino Uno Board
 
