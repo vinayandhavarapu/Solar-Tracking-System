@@ -35,6 +35,7 @@ There are three cases that are to be followed:-
 
 ![image](https://user-images.githubusercontent.com/70559104/190326946-b7125663-abe0-413d-b771-4e822bc462a8.png)
 
+Note: Put a Blockage between the 2 LDR by keeping it at distance of at least 5 cm.
 
 **Case 1: Sun is in the left side**
 Light on LDR1 is high because the shadow of barrier falls on LDR2 so solar plate moves clockwise.
@@ -104,5 +105,7 @@ Light on both LDR’s is equal so, plate will not rotate in any direction.
                                           }
 
 References:
+
 https://how2electronics.com/arduino-based-solar-tracker-using-ldr-servo-motor/
+
 https://www.solarreviews.com/blog/are-solar-axis-trackers-worth-the-additional-investment
